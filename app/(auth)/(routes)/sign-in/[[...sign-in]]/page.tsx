@@ -1,4 +1,4 @@
-"use cliente";
+"use client";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Label } from "@/components/ui/label";
